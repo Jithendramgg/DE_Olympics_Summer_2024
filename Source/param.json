@@ -1,17 +1,17 @@
 [
     {
-        "p_rel_url" : "anshlambagit/AzureProjectWithCICD/refs/heads/main/Resources/athletes.csv",
-        "p_folder" : "athletes",
+        "p_rel_url" : "Jithendramgg/DE_Olympics_Summer_2024/refs/heads/main/Source/athletes.csv",
+        "p_folder" : "bronze/athletes",
         "p_file" : "athletes.parquet"
     },
     {
-        "p_rel_url" : "anshlambagit/AzureProjectWithCICD/refs/heads/main/Resources/coaches.csv",
-        "p_folder" : "coaches",
+        "p_rel_url" : "Jithendramgg/DE_Olympics_Summer_2024/refs/heads/main/Source/coaches.csv",
+        "p_folder" : "bronze/coaches",
         "p_file" : "coaches.parquet"
     },
     {
-        "p_rel_url" : "anshlambagit/AzureProjectWithCICD/refs/heads/main/Resources/events.csv",
-        "p_folder" : "events",
+        "p_rel_url" : "Jithendramgg/DE_Olympics_Summer_2024/refs/heads/main/Source/events.csv",
+        "p_folder" : "bronze/events",
         "p_file" : "events.parquet"
     }
 ]
